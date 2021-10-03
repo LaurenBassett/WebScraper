@@ -1,0 +1,101 @@
+rank,name,hometown,height,weight,star_ranking,grade,college,commited,commit_date,height_inches,star_rank_int,home_state,commit_month
+1,Sam McCall,"Lakeland, FL",6'0'',180,four-star,87,Florida St,True,2021-02-28,72,4,Florida,2
+2,Malaki Starks,"Jefferson, GA",6'1'',195,four-star,87,Georgia,True,2021-03-24,73,4,Georgia,3
+3,Gentry Williams,"Tulsa, OK",5'11'',170,four-star,86,,False,,71,4,Oklahoma,
+4,Deyon Bouie,"Bainbridge, GA",5'11'',165,four-star,85,Texas A&M,True,2021-08-13,71,4,Georgia,8
+5,Antonio Kite,"Anniston, AL",6'2'',180,four-star,85,Alabama,True,2021-07-04,74,4,Alabama,7
+6,Larry Turner-Gooden,"Mission Hills, CA",5'10'',180,four-star,84,,False,,70,4,California,
+7,Kaleb Brown,"Chicago, IL",5'11'',180,four-star,84,Ohio State,True,2021-06-07,71,4,Illinois,6
+8,Brenen Thompson,"Spearman, TX",5'10'',170,four-star,84,,False,,70,4,Texas,
+9,Shemar James,"Mobile, AL",6'3'',200,four-star,83,Florida,True,2021-06-20,75,4,Alabama,6
+10,Kendrick Law,"Shreveport, LA",5'11'',185,four-star,83,,False,,71,4,Louisiana,
+11,Jarred Kerr,"Lexington, TX",6'0'',180,four-star,83,Texas A&M,True,2021-06-24,72,4,Texas,6
+12,Jalil Tucker,"Lincoln, CA",6'0'',180,four-star,83,Oregon,True,2021-08-21,72,4,California,8
+13,Ja'Marion Wayne,"Ballwin, MO",6'2'',175,four-star,82,Missouri,True,2020-12-18,74,4,Missouri,12
+14,Michael Allen,"Greenville, NC",5'10'',180,four-star,81,NC State,True,2021-06-18,70,4,North Carolina,6
+15,Rodney Hill,"Statesboro, GA",6'0'',180,four-star,81,Florida St,True,2021-04-10,72,4,Georgia,4
+16,Alex Orji,"Sachse, TX",6'2'',205,four-star,81,Virginia Tech,True,2021-04-08,74,4,Texas,4
+17,Destin Wade,"Spring Hill, TN",6'4'',195,four-star,81,Kentucky,True,2021-04-17,76,4,Tennessee,4
+18,Jaden Mangham,"Beverly Hills, MI",6'3'',185,four-star,80,Michigan St,True,2021-08-08,75,4,Michigan,8
+19,Kody Jones,"Memphis, TN",6'0'',180,four-star,80,Michigan,True,2021-02-04,72,4,Tennessee,2
+20,Jordan Anthony,"Tylertown, MS",5'11'',165,four-star,80,Kentucky,True,2021-07-27,71,4,Mississippi,7
+21,Omari Kelly,"Trussville, AL",6'2'',180,four-star,80,Auburn,True,2021-08-19,74,4,Alabama,8
+22,Marquez Dortch,"Lucedale, MS",6'0'',165,four-star,80,Ole Miss,True,2021-01-04,72,4,Mississippi,1
+23,Ja'Kobi Albert,"Mobile, AL",6'0'',175,four-star,80,Auburn,True,2021-08-04,72,4,Alabama,8
+24,Kye Stokes,"Seffner, FL",6'2'',185,four-star,80,Ohio State,True,2021-05-02,74,4,Florida,5
+25,Taylor Groves,"Cross Plains, TN",6'2'',175,four-star,80,Ole Miss,True,2021-06-27,74,4,Tennessee,6
+26,JaCorey Thomas,"Orlando, FL",6'1'',190,four-star,80,Georgia,True,2021-06-25,73,4,Florida,6
+27,Xavion Brice,"Arlington, TX",6'2'',175,four-star,80,Oklahoma,True,2021-07-04,74,4,Texas,7
+28,Treyveon Longmire,"Corbin, KY",6'2'',170,four-star,80,Kentucky,True,2021-03-26,74,4,Kentucky,3
+29,Tristan Dunn,"Sumner, WA",6'3'',185,four-star,80,Arizona St,True,2021-07-21,75,4,Washington,7
+30,Chris Graves,"Fort Myers, FL",6'2'',170,four-star,80,Miami,True,2021-07-09,74,4,Florida,7
+31,Kobe Prentice,"Calera, AL",5'10'',175,four-star,80,Alabama,True,2021-07-27,70,4,Alabama,7
+32,Simeon Harris,"Vallejo, CA",5'11'',160,three-star,79,Colorado,True,2021-07-21,71,3,California,7
+33,Perry Fisher,"Tallahassee, FL",6'2'',180,three-star,79,Maryland,True,2021-06-26,74,3,Florida,6
+34,Eli King,"Caledonia, MN",6'3'',185,three-star,79,,False,,75,3,Minnesota,
+35,Terian Williams,"Alpharetta, GA",5'11'',175,three-star,79,Stanford,True,2021-09-01,71,3,Georgia,9
+36,Phillip Dunnam,"Miami, FL",6'1'',180,three-star,79,Indiana,True,2021-07-20,73,3,Florida,7
+37,Dillon Bell,"Houston, TX",6'2'',200,three-star,79,Georgia,True,2021-08-02,74,3,Texas,8
+38,Ish Harris,"Pilot Point, TX",6'3'',190,three-star,79,Texas A&M,True,2021-06-26,75,3,Texas,6
+39,Darren Agu,"Rabun Gap, GA",6'6'',225,three-star,79,Vanderbilt,True,2021-07-14,78,3,Georgia,7
+40,K.D. Hutchinson,"Hamilton, GA",5'9'',180,three-star,79,Vanderbilt,True,2021-07-04,69,3,Georgia,7
+41,Trent Singleton,"Raymond, MS",6'0'',190,three-star,79,Miss. St,True,2021-05-21,72,3,Mississippi,5
+42,Isaiah Bond,"Buford, GA",6'0'',180,three-star,78,Florida,True,2021-05-09,72,3,Georgia,5
+43,Octavian Smith,"Burtonsville, MD",6'0'',170,three-star,78,,False,,72,3,Maryland,
+44,Malcolm Jones,"Leesburg, GA",6'1'',185,three-star,78,Virginia Tech,True,2021-06-21,73,3,Georgia,6
+45,Thomas Castellanos,"Waycross, GA",5'10'',190,three-star,78,UCF,True,2021-03-15,70,3,Georgia,3
+46,Rashod Dubinion,"Ellenwood, GA",5'10'',180,three-star,78,Arkansas,True,2021-02-13,70,3,Georgia,2
+47,Kenny Soares,"Jersey City, NJ",6'3'',215,three-star,78,Colorado,True,2021-08-07,75,3,New Jersey,8
+48,Amari Clark,"Camden, NJ",6'1'',190,three-star,78,,False,,73,3,New Jersey,
+49,Christion Stokes,"Harper Woods, MI",6'0'',180,three-star,78,W Virginia,True,2021-07-10,72,3,Michigan,7
+50,Dom Foster,"Warren, OH",6'2'',175,three-star,78,Syracuse,True,2021-08-18,74,3,Ohio,8
+51,Shannon Blair,"Knoxville, TN",6'1'',170,three-star,78,Michigan St,True,2021-06-25,73,3,Tennessee,6
+52,Major Everhart,"Amarillo, TX",5'11'',170,three-star,78,,False,,71,3,Texas,
+53,Jeremiah Caldwell,"Belleville, MI",6'3'',170,three-star,78,,False,,75,3,Michigan,
+54,Evan Smith,"Birmingham, AL",5'9'',170,three-star,78,Nrthwestrn,True,2021-07-03,69,3,Alabama,7
+55,Kalib Perry,"Georgetown, KY",6'3'',215,three-star,78,Tennessee,True,2021-07-31,75,3,Kentucky,7
+56,Jordan Williams,"Etiwanda, CA",6'1'',185,three-star,78,,False,,73,3,California,
+57,Roman Pitre,"Baton Rouge, LA",6'4'',220,three-star,78,Purdue,True,2021-06-25,76,3,Louisiana,6
+58,Jerry Johnson,"Pearl, MS",5'10'',180,three-star,78,,False,,70,3,Mississippi,
+59,Che Nwabuko,"Manor, TX",5'10'',175,three-star,78,Pittsburgh,True,2021-06-27,70,3,Texas,6
+60,Alex Afari,"West Chester, OH",6'2'',195,three-star,78,Kentucky,True,2021-05-07,74,3,Ohio,5
+61,Jocelyn Malaska,"Bethany, OK",6'2'',170,three-star,78,Texas Tech,True,2021-07-16,74,3,Oklahoma,7
+62,Matthew McDoom,"Winter Garden, FL",5'9'',165,three-star,78,Coast Carolina,True,2021-07-05,69,3,Florida,7
+63,Anthony Brown,"Milan, TN",6'1'',190,three-star,78,Arkansas,True,2021-09-14,73,3,Tennessee,9
+64,Lavain Scruggs,"Baltimore, MD",6'2'',186,three-star,77,Maryland,True,2021-07-16,74,3,Maryland,7
+65,Aidan Laughery,"Gibson City, IL",5'11'',190,three-star,77,Illinois,True,2021-07-14,71,3,Illinois,7
+66,Tyler Griffin,"Brooklet, GA",6'4'',205,three-star,77,UCF,True,2021-06-18,76,3,Georgia,6
+67,Jaren Kanak,"Hays, KS",6'2'',210,three-star,77,Clemson,True,2021-07-30,74,3,Kansas,7
+68,Ashton Hollins,"Lucedale, MS",6'3'',170,three-star,77,Illinois,True,2021-06-30,75,3,Mississippi,6
+69,Camarion Thornton,"Los Angeles, CA",6'0'',180,three-star,77,,False,,72,3,California,
+70,Cameron Sampson,"Sacramento, CA",6'0'',180,three-star,77,,False,,72,3,California,
+71,B.J. Diakite,"Pinson, AL",6'3'',210,three-star,77,Vanderbilt,True,2021-03-23,75,3,Alabama,3
+72,Tyrell Henry,"Roseville, MI",6'0'',160,three-star,76,Michigan St,True,2021-01-29,72,3,Michigan,1
+73,Brian Courtney,"Ashburn, VA",6'3'',220,three-star,76,Florida St,True,2021-04-15,75,3,Virginia,4
+74,Jordan McDonald,"Milton, GA",6'1'',220,three-star,76,,False,,73,3,Georgia,
+75,Jordan Anderson,"Joliet, IL",6'3'',215,three-star,76,Illinois,True,2021-04-29,75,3,Illinois,4
+76,Grant Page,"Boulder, CO",6'2'',175,three-star,76,Nebraska,True,2021-06-20,74,3,Colorado,6
+77,Kord Shaw,"Ogden, UT",6'2'',205,three-star,76,Oregon St,True,2021-07-29,74,3,Utah,7
+78,Cade Yacamelli,"Trafford, PA",6'0'',185,three-star,76,Wisconsin,True,2021-06-21,72,3,Pennsylvania,6
+79,Jaylan Sanchez,"Fort Lauderdale, FL",6'1'',185,three-star,76,,False,,73,3,Florida,
+80,Sam Martin Jr.,"Staten Island, NY",5'11'',175,three-star,76,Temple,True,2021-07-31,71,3,New York,7
+81,Anthony Jones,"Henderson, NV",6'5'',240,three-star,76,Texas,True,2021-06-12,77,3,Nevada,6
+82,Max Garrison,"La Canada, CA",5'9'',185,three-star,76,San Diego St,True,2021-09-07,69,3,California,9
+83,Anthony Costanzo,"Monument, CO",6'2'',210,three-star,76,UNLV,True,2021-06-18,74,3,Colorado,6
+84,Hut Graham,"Gunter, TX",6'0'',175,three-star,76,Texas Tech,True,2021-06-17,72,3,Texas,6
+85,Eric Butler Jr.,"Corona, CA",6'2'',175,three-star,76,Nevada,True,2021-07-01,74,3,California,7
+86,Kenyon Clay,"Union, MS",6'0'',210,three-star,76,S Miss,True,2021-03-17,72,3,Mississippi,3
+87,Jarinn Kalama,"Heber, UT",6'2'',200,three-star,76,BYU,True,2021-03-24,74,3,Utah,3
+88,C.J. Clinkscales,"Buford, GA",5'9'',180,three-star,75,Boston College,True,2021-03-24,69,3,Georgia,3
+89,Landon Dean,"Frontenac, KS",6'4'',230,three-star,75,Oklahoma St,True,2021-02-10,76,3,Kansas,2
+90,Jaydin Virgin,"San Diego, CA",6'3'',220,three-star,75,Boise State,True,2021-06-29,75,3,California,6
+91,Damon Youngblood,"McKinney, TX",5'11'',180,three-star,74,Louisiana,True,2021-06-20,71,3,Texas,6
+92,Izaiah Guy,"Ocala, FL",6'1'',185,three-star,74,Georgia St,True,2021-08-07,73,3,Florida,8
+93,Jakob Galloway,"Wilmington, CA",5'10'',215,three-star,74,San José St,True,2021-06-18,70,3,California,6
+94,Jaylin Lucas,"Houma, LA",5'8'',175,three-star,74,Tulane,True,2021-07-08,68,3,Louisiana,7
+95,Rodney Shelley,"Fairburn, GA",5'11'',165,three-star,74,E Michigan,True,2021-06-27,71,3,Georgia,6
+96,Junior Vandeross,"Tampa, FL",5'10'',195,three-star,74,Toledo,True,2021-06-14,70,3,Florida,6
+97,Gage Stenger,"Omaha, NE",6'1'',195,three-star,74,Kansas St,True,2021-06-26,73,3,Nebraska,6
+98,Ahmarian Granger,"Norfolk, VA",6'0'',185,three-star,74,Old Dominion,True,2021-07-11,72,3,Virginia,7
+99,Elijah Hopkins,"Ocala, FL",5'10'',175,three-star,74,Coast Carolina,True,2021-06-13,70,3,Florida,6
+100,KeeKee McQueen,"Spanaway, WA",5'10'',175,three-star,74,Nevada,True,2021-06-10,70,3,Washington,6
